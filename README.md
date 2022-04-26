@@ -1,3 +1,3 @@
 # drawings
 computer generated drawings for pen plotting
-! [] (drawing.jpg)
+! [a drawing] (/drawing.jpg)
