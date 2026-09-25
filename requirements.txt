@@ -1,0 +1,7 @@
+# Direct dependencies for jasperjohns.py / dots.py
+# Install:  python3 -m venv .venv && .venv/bin/pip install -r requirements.txt
+numpy>=2.0
+scipy>=1.14
+shapely>=2.0
+matplotlib>=3.9
+ezdxf>=1.3
